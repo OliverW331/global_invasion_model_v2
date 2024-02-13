@@ -1,0 +1,7 @@
+type,source,variable,include,starting.value
+pp.vars,A,gdp.src,FALSE,0
+pp.vars,A,population.src,FALSE,0
+pp.vars,A,gdp.dst,FALSE,0
+pp.vars,A,population.dst,FALSE,0
+pp.vars,D,phys_dist,FALSE,0
+time.vars,NA,t,FALSE,0

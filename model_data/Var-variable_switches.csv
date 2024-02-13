@@ -1,0 +1,13 @@
+type,source,variable,include,starting.value
+pp.vars,A,trade_export_sum.src,FALSE,0
+pp.vars,A,trade_import_sum.src,FALSE,0
+pp.vars,A,gdp.src,TRUE,0
+pp.vars,A,population.src,FALSE,0
+pp.vars,A,trade_export_sum.dst,FALSE,0
+pp.vars,A,trade_import_sum.dst,FALSE,0
+pp.vars,A,gdp.dst,TRUE,0
+pp.vars,A,population.dst,FALSE,0
+pp.vars,D,phys_dist,TRUE,0
+pp.vars,Tr,bilateral_trade,FALSE,0
+sp.vars,B,NA,FALSE,0
+time.vars,NA,t,FALSE,0
